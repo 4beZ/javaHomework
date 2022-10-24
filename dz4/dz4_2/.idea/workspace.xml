@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="974b6231-bb86-4537-9762-3cdd3c49a48e" name="Changes" comment="" />
+    <list default="true" id="974b6231-bb86-4537-9762-3cdd3c49a48e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../dz4_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4_4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/java/javaHomework/dz4/dz4_2"
   }
 }]]></component>
   <component name="RecentsManager">
