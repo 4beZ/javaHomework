@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d0cd6e0-ab65-45c6-a4da-b2684481daae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../dz2/ex2_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dz2/ex2_4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dz4_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dz4_3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dz4_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dz4_4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d0cd6e0-ab65-45c6-a4da-b2684481daae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
